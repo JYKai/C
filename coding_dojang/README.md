@@ -3,5 +3,5 @@
 ## Unit
 | Unit | Name |
 | :--- | ---- | 
-| 1    | [start_C]() |
-| 2    | [basic_grammer]() |
+| 1    | [start_C](https://github.com/JYKai/C/tree/main/coding_dojang/unit1.%20start_C) |
+| 2    | [basic_grammer](https://github.com/JYKai/C/tree/main/coding_dojang/unit2.%20basic_grammer) |
