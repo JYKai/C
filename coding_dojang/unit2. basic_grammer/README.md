@@ -58,5 +58,3 @@ struct Hello {
     int b;
 };
 ```
-
-## 들여쓰기
