@@ -21,6 +21,7 @@
 | 2    | [variables input data](https://github.com/JYKai/C/tree/main/C_basics/02_variables_input_data) |
 | 3    | [operator](https://github.com/JYKai/C/tree/main/C_basics/03_operator) |
 | 4    | [if ~ switch](https://github.com/JYKai/C/tree/main/C_basics/04_if_switch) |
+| 5    | [loop](https://github.com/JYKai/C/tree/main/C_basics/05_loop) |
 
 
 ## Materials
