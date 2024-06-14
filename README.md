@@ -17,9 +17,10 @@
 ### 혼자 공부하는 C언어
 | Unit | Name |
 | :--- | ---- | 
-| 1    | [structure_io](https://github.com/JYKai/C/tree/main/C_basics/01_structure_io) |
-| 2    | [variables_input_data](https://github.com/JYKai/C/tree/main/C_basics/02_variables_input_data) |
+| 1    | [structure I/O](https://github.com/JYKai/C/tree/main/C_basics/01_structure_io) |
+| 2    | [variables input data](https://github.com/JYKai/C/tree/main/C_basics/02_variables_input_data) |
 | 3    | [operator](https://github.com/JYKai/C/tree/main/C_basics/03_operator) |
+| 4    | [if ~ switch](https://github.com/JYKai/C/tree/main/C_basics/04_if_switch) |
 
 
 ## Materials
