@@ -17,8 +17,8 @@
 ### 혼자 공부하는 C언어
 | Unit | Name |
 | :--- | ---- | 
-| 1    | [structure_io]() |
-| 2    | [variables_input_data]() |
+| 1    | [structure_io](https://github.com/JYKai/C/tree/main/C_basics/01_structure_io) |
+| 2    | [variables_input_data](https://github.com/JYKai/C/tree/main/C_basics/02_variables_input_data) |
 
 ## Materials
 [C언어 공부 자료](https://github.com/innovationacademy-kr/hitchhikers_guide/blob/main/c.md)
