@@ -25,6 +25,7 @@
 | 6    | [function](https://github.com/JYKai/C/tree/main/C_basics/06_function) |
 | 7    | [array](https://github.com/JYKai/C/tree/main/C_basics/07_array) |
 | 8    | [pointer](https://github.com/JYKai/C/tree/main/C_basics/08_pointer) |
+| 9    | [array & pointer](https://github.com/JYKai/C/tree/main/C_basics/09_array_pointer) |
 
 
 ## Materials
