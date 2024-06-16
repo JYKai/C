@@ -28,6 +28,7 @@
 | 9    | [array & pointer](https://github.com/JYKai/C/tree/main/C_basics/09_array_pointer) |
 | 10    | [char](https://github.com/JYKai/C/tree/main/C_basics/10_char) |
 | 11    | [string](https://github.com/JYKai/C/tree/main/C_basics/11_string) |
+| 12    | [area & share](https://github.com/JYKai/C/tree/main/C_basics/12_area_share) |
 
 
 ## Materials
