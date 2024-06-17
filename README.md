@@ -30,6 +30,7 @@
 | 11    | [string](https://github.com/JYKai/C/tree/main/C_basics/11_string) |
 | 12    | [area & share](https://github.com/JYKai/C/tree/main/C_basics/12_area_share) |
 | 13    | [Multi-dimensional arrays and pointer arrays](https://github.com/JYKai/C/tree/main/C_basics/13_multi_pointer_array) |
+| 14    | [application pointer](https://github.com/JYKai/C/tree/main/C_basics/14_application_pointer) |
 
 
 ## Materials
