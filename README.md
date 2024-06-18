@@ -33,6 +33,7 @@
 | 14    | [application pointer](https://github.com/JYKai/C/tree/main/C_basics/14_application_pointer) |
 | 15    | [memory dynamic allocation](https://github.com/JYKai/C/tree/main/C_basics/15_memory_dynamic_allocation) |
 | 16    | [user-defined data type](https://github.com/JYKai/C/tree/main/C_basics/16_user-defined_data_type) |
+| 17    | [file input/output](https://github.com/JYKai/C/tree/main/C_basics/17_file_input_output) |
 
 
 ## Materials
