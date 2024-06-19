@@ -3,6 +3,7 @@
 ## Theory Learning
 1. [코딩도장](https://dojang.io/course/view.php?id=2)
 2. [혼자 공부하는 C언어]()
+3. [열혈 C 프로그래밍]()
 
 ## Progress
 ### 코딩도장
@@ -40,7 +41,8 @@
 ### 열혈 C 프로그래밍
 | Chapter | Name |
 | :--- | ---- | 
-| 1    | [변수와 연산자](https://github.com/JYKai/C/tree/main/C_basics/01_structure_io) |
+| 1    | [변수와 연산자](https://github.com/JYKai/C/tree/main/C_basics/01_variables_operators) |
+| 2    | [데이터 표현방식의 이해](https://github.com/JYKai/C/tree/main/C_basics/02_representation_data) |
 
 
 ## Materials
