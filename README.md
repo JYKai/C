@@ -36,6 +36,7 @@
 | 15    | [memory dynamic allocation](https://github.com/JYKai/C/tree/main/C_basics/15_memory_dynamic_allocation) |
 | 16    | [user-defined data type](https://github.com/JYKai/C/tree/main/C_basics/16_user-defined_data_type) |
 | 17    | [file input/output](https://github.com/JYKai/C/tree/main/C_basics/17_file_input_output) |
+| 18    | [Preprocessing and split compilation](https://github.com/JYKai/C/tree/main/C_basics/18_preprocessing_compile) |
 
 
 ### 열혈 C 프로그래밍
