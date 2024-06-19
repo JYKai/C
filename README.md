@@ -14,8 +14,9 @@
 | 4    | [integer](https://github.com/JYKai/C/tree/main/coding_dojang/unit4.%20integer) |
 | 5    | [float](https://github.com/JYKai/C/tree/main/coding_dojang/unit5.%20float) |
 
+
 ### 혼자 공부하는 C언어
-| Unit | Name |
+| Chapter | Name |
 | :--- | ---- | 
 | 1    | [structure I/O](https://github.com/JYKai/C/tree/main/C_basics/01_structure_io) |
 | 2    | [variables input data](https://github.com/JYKai/C/tree/main/C_basics/02_variables_input_data) |
@@ -34,6 +35,12 @@
 | 15    | [memory dynamic allocation](https://github.com/JYKai/C/tree/main/C_basics/15_memory_dynamic_allocation) |
 | 16    | [user-defined data type](https://github.com/JYKai/C/tree/main/C_basics/16_user-defined_data_type) |
 | 17    | [file input/output](https://github.com/JYKai/C/tree/main/C_basics/17_file_input_output) |
+
+
+### 열혈 C 프로그래밍
+| Chapter | Name |
+| :--- | ---- | 
+| 1    | [변수와 연산자](https://github.com/JYKai/C/tree/main/C_basics/01_structure_io) |
 
 
 ## Materials
