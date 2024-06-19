@@ -138,3 +138,4 @@ int main(void)
     return 0;
 }
 ```
+- ```(double)num1``` : 변수 num1에 저장된 값을 double형으로 변환하라는 뜻 = 형 변환 연산자
