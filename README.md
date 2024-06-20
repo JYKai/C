@@ -46,6 +46,7 @@
 | 2    | [데이터 표현방식의 이해](https://github.com/JYKai/C/tree/main/C_basics/02_representation_data) |
 | 3    | [상수와 기본 자료형](https://github.com/JYKai/C/tree/main/C_basics/03_constants_basic_data_types) |
 | 4    | [printf & scanf](https://github.com/JYKai/C/tree/main/coding_dojang/04_printf_scanf) |
+| 5    | [반복실행을 명령하는 반복문](https://github.com/JYKai/C/tree/main/coding_dojang/05_loop) |
 
 
 ## Materials
