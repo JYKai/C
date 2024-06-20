@@ -9,9 +9,9 @@
 ### 코딩도장
 | Unit | Name |
 | :--- | ---- | 
-| 1    | [start_C](https://github.com/JYKai/C/tree/main/coding_dojang/unit1.%20start_C) |
-| 2    | [basic_grammer](https://github.com/JYKai/C/tree/main/coding_dojang/unit2.%20basic_grammer) |
-| 3    | [create_variable](https://github.com/JYKai/C/tree/main/coding_dojang/unit3.%20create_variable) |
+| 1    | [start C](https://github.com/JYKai/C/tree/main/coding_dojang/unit1.%20start_C) |
+| 2    | [basic grammer](https://github.com/JYKai/C/tree/main/coding_dojang/unit2.%20basic_grammer) |
+| 3    | [create variable](https://github.com/JYKai/C/tree/main/coding_dojang/unit3.%20create_variable) |
 | 4    | [integer](https://github.com/JYKai/C/tree/main/coding_dojang/unit4.%20integer) |
 | 5    | [float](https://github.com/JYKai/C/tree/main/coding_dojang/unit5.%20float) |
 
@@ -45,6 +45,7 @@
 | 1    | [변수와 연산자](https://github.com/JYKai/C/tree/main/C_basics/01_variables_operators) |
 | 2    | [데이터 표현방식의 이해](https://github.com/JYKai/C/tree/main/C_basics/02_representation_data) |
 | 3    | [상수와 기본 자료형](https://github.com/JYKai/C/tree/main/C_basics/03_constants_basic_data_types) |
+| 4    | [printf & scanf](https://github.com/JYKai/C/tree/main/coding_dojang/04_printf_scanf) |
 
 
 ## Materials
