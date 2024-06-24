@@ -19,34 +19,34 @@
 ### 혼자 공부하는 C언어
 | Chapter | Name |
 | :--- | ---- | 
-| 1    | [structure I/O](https://github.com/JYKai/C/tree/main/C_basics/01_structure_io) |
-| 2    | [variables input data](https://github.com/JYKai/C/tree/main/C_basics/02_variables_input_data) |
-| 3    | [operator](https://github.com/JYKai/C/tree/main/C_basics/03_operator) |
-| 4    | [if ~ switch](https://github.com/JYKai/C/tree/main/C_basics/04_if_switch) |
-| 5    | [loop](https://github.com/JYKai/C/tree/main/C_basics/05_loop) |
-| 6    | [function](https://github.com/JYKai/C/tree/main/C_basics/06_function) |
-| 7    | [array](https://github.com/JYKai/C/tree/main/C_basics/07_array) |
-| 8    | [pointer](https://github.com/JYKai/C/tree/main/C_basics/08_pointer) |
-| 9    | [array & pointer](https://github.com/JYKai/C/tree/main/C_basics/09_array_pointer) |
-| 10    | [char](https://github.com/JYKai/C/tree/main/C_basics/10_char) |
-| 11    | [string](https://github.com/JYKai/C/tree/main/C_basics/11_string) |
-| 12    | [area & share](https://github.com/JYKai/C/tree/main/C_basics/12_area_share) |
-| 13    | [Multi-dimensional arrays and pointer arrays](https://github.com/JYKai/C/tree/main/C_basics/13_multi_pointer_array) |
-| 14    | [application pointer](https://github.com/JYKai/C/tree/main/C_basics/14_application_pointer) |
-| 15    | [memory dynamic allocation](https://github.com/JYKai/C/tree/main/C_basics/15_memory_dynamic_allocation) |
-| 16    | [user-defined data type](https://github.com/JYKai/C/tree/main/C_basics/16_user-defined_data_type) |
-| 17    | [file input/output](https://github.com/JYKai/C/tree/main/C_basics/17_file_input_output) |
-| 18    | [Preprocessing and split compilation](https://github.com/JYKai/C/tree/main/C_basics/18_preprocessing_compile) |
+| 1    | [structure I/O](https://github.com/JYKai/C/tree/main/C_basics1/01_structure_io) |
+| 2    | [variables input data](https://github.com/JYKai/C/tree/main/C_basics1/02_variables_input_data) |
+| 3    | [operator](https://github.com/JYKai/C/tree/main/C_basics1/03_operator) |
+| 4    | [if ~ switch](https://github.com/JYKai/C/tree/main/C_basics1/04_if_switch) |
+| 5    | [loop](https://github.com/JYKai/C/tree/main/C_basics1/05_loop) |
+| 6    | [function](https://github.com/JYKai/C/tree/main/C_basics1/06_function) |
+| 7    | [array](https://github.com/JYKai/C/tree/main/C_basics1/07_array) |
+| 8    | [pointer](https://github.com/JYKai/C/tree/main/C_basics1/08_pointer) |
+| 9    | [array & pointer](https://github.com/JYKai/C/tree/main/C_basics1/09_array_pointer) |
+| 10    | [char](https://github.com/JYKai/C/tree/main/C_basics1/10_char) |
+| 11    | [string](https://github.com/JYKai/C/tree/main/C_basics1/11_string) |
+| 12    | [area & share](https://github.com/JYKai/C/tree/main/C_basics1/12_area_share) |
+| 13    | [Multi-dimensional arrays and pointer arrays](https://github.com/JYKai/C/tree/main/C_basics1/13_multi_pointer_array) |
+| 14    | [application pointer](https://github.com/JYKai/C/tree/main/C_basics1/14_application_pointer) |
+| 15    | [memory dynamic allocation](https://github.com/JYKai/C/tree/main/C_basics1/15_memory_dynamic_allocation) |
+| 16    | [user-defined data type](https://github.com/JYKai/C/tree/main/C_basics1/16_user-defined_data_type) |
+| 17    | [file input/output](https://github.com/JYKai/C/tree/main/C_basics1/17_file_input_output) |
+| 18    | [Preprocessing and split compilation](https://github.com/JYKai/C/tree/main/C_basics1/18_preprocessing_compile) |
 
 
 ### 열혈 C 프로그래밍
 | Chapter | Name |
 | :--- | ---- | 
-| 1    | [변수와 연산자](https://github.com/JYKai/C/tree/main/C_basics/01_variables_operators) |
-| 2    | [데이터 표현방식의 이해](https://github.com/JYKai/C/tree/main/C_basics/02_representation_data) |
-| 3    | [상수와 기본 자료형](https://github.com/JYKai/C/tree/main/C_basics/03_constants_basic_data_types) |
-| 4    | [printf & scanf](https://github.com/JYKai/C/tree/main/coding_dojang/04_printf_scanf) |
-| 5    | [반복실행을 명령하는 반복문](https://github.com/JYKai/C/tree/main/coding_dojang/05_loop) |
+| 1    | [변수와 연산자](https://github.com/JYKai/C/tree/main/C_basics2/01_variables_operators) |
+| 2    | [데이터 표현방식의 이해](https://github.com/JYKai/C/tree/main/C_basics2/02_representation_data) |
+| 3    | [상수와 기본 자료형](https://github.com/JYKai/C/tree/main/C_basics2/03_constants_basic_data_types) |
+| 4    | [printf & scanf](https://github.com/JYKai/C/tree/main/C_basics2/04_printf_scanf) |
+| 5    | [반복실행을 명령하는 반복문](https://github.com/JYKai/C/tree/main/C_basics2/05_loop) |
 
 
 ## Materials
