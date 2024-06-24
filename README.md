@@ -47,6 +47,7 @@
 | 3    | [상수와 기본 자료형](https://github.com/JYKai/C/tree/main/C_basics2/03_constants_basic_data_types) |
 | 4    | [printf & scanf](https://github.com/JYKai/C/tree/main/C_basics2/04_printf_scanf) |
 | 5    | [반복실행을 명령하는 반복문](https://github.com/JYKai/C/tree/main/C_basics2/05_loop) |
+| 6    | [조건에 따른 흐름의 분기](https://github.com/JYKai/C/tree/main/C_basics2/06_condition) |
 
 
 ## Materials
