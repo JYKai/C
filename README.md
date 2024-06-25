@@ -48,6 +48,7 @@
 | 4    | [printf & scanf](https://github.com/JYKai/C/tree/main/C_basics2/04_printf_scanf) |
 | 5    | [반복실행을 명령하는 반복문](https://github.com/JYKai/C/tree/main/C_basics2/05_loop) |
 | 6    | [조건에 따른 흐름의 분기](https://github.com/JYKai/C/tree/main/C_basics2/06_condition) |
+| 7    | [C언어의 핵심! 함수!](https://github.com/JYKai/C/tree/main/C_basics2/07_function) |
 
 
 ## Materials
