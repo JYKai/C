@@ -50,6 +50,7 @@
 | 6    | [조건에 따른 흐름의 분기](https://github.com/JYKai/C/tree/main/C_basics2/06_condition) |
 | 7    | [C언어의 핵심! 함수!](https://github.com/JYKai/C/tree/main/C_basics2/07_function) |
 | 8    | [도전! 프로그래밍1](https://github.com/JYKai/C/tree/main/C_basics2/08_challenge1) |
+| 9    | [1차원 배열](https://github.com/JYKai/C/tree/main/C_basics2/09_1d-array) |
 
 
 ## Materials
