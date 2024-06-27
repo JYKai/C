@@ -51,6 +51,7 @@
 | 7    | [C언어의 핵심! 함수!](https://github.com/JYKai/C/tree/main/C_basics2/07_function) |
 | 8    | [도전! 프로그래밍1](https://github.com/JYKai/C/tree/main/C_basics2/08_challenge1) |
 | 9    | [1차원 배열](https://github.com/JYKai/C/tree/main/C_basics2/09_1d-array) |
+| 10    | [포인터의 이해](https://github.com/JYKai/C/tree/main/C_basics2/10_understand_pointer) |
 
 
 ## Materials
