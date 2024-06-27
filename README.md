@@ -52,6 +52,7 @@
 | 8    | [도전! 프로그래밍1](https://github.com/JYKai/C/tree/main/C_basics2/08_challenge1) |
 | 9    | [1차원 배열](https://github.com/JYKai/C/tree/main/C_basics2/09_1d-array) |
 | 10    | [포인터의 이해](https://github.com/JYKai/C/tree/main/C_basics2/10_understand_pointer) |
+| 11    | [포인터와 배열](https://github.com/JYKai/C/tree/main/C_basics2/11_pointer_array) |
 
 
 ## Materials
