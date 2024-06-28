@@ -53,6 +53,8 @@
 | 9    | [1차원 배열](https://github.com/JYKai/C/tree/main/C_basics2/09_1d-array) |
 | 10    | [포인터의 이해](https://github.com/JYKai/C/tree/main/C_basics2/10_understand_pointer) |
 | 11    | [포인터와 배열](https://github.com/JYKai/C/tree/main/C_basics2/11_pointer_array) |
+| 12    | [포인터와 함수에 대한 이해](https://github.com/JYKai/C/tree/main/C_basics2/12_pointer_function) |
+| 13    | [도전! 프로그래밍2](https://github.com/JYKai/C/tree/main/C_basics2/13_challenge2) |
 
 
 ## Materials
