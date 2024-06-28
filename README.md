@@ -56,6 +56,7 @@
 | 12    | [포인터와 함수에 대한 이해](https://github.com/JYKai/C/tree/main/C_basics2/12_pointer_function) |
 | 13    | [도전! 프로그래밍2](https://github.com/JYKai/C/tree/main/C_basics2/13_challenge2) |
 | 14    | [다차원 배열](https://github.com/JYKai/C/tree/main/C_basics2/14_multi-d_array) |
+| 15    | [포인터의 포인터](https://github.com/JYKai/C/tree/main/C_basics2/15_pointer_pointer) |
 
 
 ## Materials
