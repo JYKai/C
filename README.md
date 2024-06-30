@@ -57,6 +57,7 @@
 | 13    | [도전! 프로그래밍2](https://github.com/JYKai/C/tree/main/C_basics2/13_challenge2) |
 | 14    | [다차원 배열](https://github.com/JYKai/C/tree/main/C_basics2/14_multi-d_array) |
 | 15    | [포인터의 포인터](https://github.com/JYKai/C/tree/main/C_basics2/15_pointer_pointer) |
+| 16    | [다차원 배열과 포인터의 관계](https://github.com/JYKai/C/tree/main/C_basics2/16_multi-d_pointe) |
 
 
 ## Materials
