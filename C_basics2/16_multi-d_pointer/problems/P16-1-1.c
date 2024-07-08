@@ -8,7 +8,7 @@ int main(void)
     int * arr2[2][2] = { &n3, &n4, &n5, &n6 };
 
     int ** darr1 = arr1;
-    int* (*darr2)[5] = arr2;    // arr2가 가리키는 것은 int * 이고, 가로길이 = 5 이므로
+    int* (*darr2)[2] = arr2;    // arr2가 가리키는 것은 int * 이고, 가로길이 = 5 이므로
 
     int i, j;
 
