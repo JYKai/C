@@ -59,6 +59,8 @@
 | 15    | [포인터의 포인터](https://github.com/JYKai/C/tree/main/C_basics2/15_pointer_pointer) |
 | 16    | [다차원 배열과 포인터의 관계](https://github.com/JYKai/C/tree/main/C_basics2/16_multi-d_pointe) |
 | 17    | [함수 포인터와 void 포인터](https://github.com/JYKai/C/tree/main/C_basics2/17_function_void_pointer) |
+| 18    | [도전! 프로그래밍3](https://github.com/JYKai/C/tree/main/C_basics2/18_challenge3) |
+| 19    | [문자와 문자열 관련 함수](https://github.com/JYKai/C/tree/main/C_basics2/19_string_function) |
 
 
 ## Materials
