@@ -61,6 +61,7 @@
 | 17    | [함수 포인터와 void 포인터](https://github.com/JYKai/C/tree/main/C_basics2/17_function_void_pointer) |
 | 18    | [도전! 프로그래밍3](https://github.com/JYKai/C/tree/main/C_basics2/18_challenge3) |
 | 19    | [문자와 문자열 관련 함수](https://github.com/JYKai/C/tree/main/C_basics2/19_string_function) |
+| 20    | [구조체와 사용자 정의 자료형](https://github.com/JYKai/C/tree/main/C_basics2/20_struct_user_type) |
 
 
 ## Materials
