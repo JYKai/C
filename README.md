@@ -62,6 +62,7 @@
 | 18    | [도전! 프로그래밍3](https://github.com/JYKai/C/tree/main/C_basics2/18_challenge3) |
 | 19    | [문자와 문자열 관련 함수](https://github.com/JYKai/C/tree/main/C_basics2/19_string_function) |
 | 20    | [구조체와 사용자 정의 자료형](https://github.com/JYKai/C/tree/main/C_basics2/20_struct_user_type) |
+| 21    | [파일 입출력](https://github.com/JYKai/C/tree/main/C_basics2/21_file_io) |
 
 
 ## Materials
