@@ -64,6 +64,7 @@
 | 20    | [구조체와 사용자 정의 자료형](https://github.com/JYKai/C/tree/main/C_basics2/20_struct_user_type) |
 | 21    | [파일 입출력](https://github.com/JYKai/C/tree/main/C_basics2/21_file_io) |
 | 22    | [메모리 관리와 메모리의 동적 할당](https://github.com/JYKai/C/tree/main/C_basics2/22_memory) |
+| 23    | [매크로와 선행처리기 (Preprocessor)](https://github.com/JYKai/C/tree/main/C_basics2/23_preprocessor) |
 
 
 ## Materials
