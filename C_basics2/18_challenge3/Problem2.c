@@ -1,75 +1,75 @@
 #include <stdio.h>
 
-int arr[100][100];
-    int count = 1;
-
-void Snail(int n);
-
-void Left_to_Right(int row, int min, int max)
+int check(int num, int row, int col, int direction, int (*pmove_arr)[2], int (*parr)[num])
 {
-    for(int i=min;i<max;i++){
-        arr[row][i] = count;
-        count++;
+    int next_r = row + pmove_arr[direction][0];
+    int next_c = col + pmove_arr[direction][1];
+    
+    if (0 <= next_r && next_r < num &&
+        0 <= next_c && next_c < num &&
+        parr[next_r][next_c] == 0)
+    {
+        return 1;
+    }
+    else
+    {
+        return 0;
     }
 }
 
-void Right_to_Left(int row, int max, int min)
+void snail(int num)
 {
-    for(int i=max-2;i>=min;i--){
-        arr[row][i] = count;
-        count++;
-    }
-}
+    int arr[num][num];
+    int direction = 0;
+    int start_r = 0, start_c = 0;
+    int move_arr[4][2] = {
+        {0, 1},  // 우
+        {1, 0},  // 하
+        {0, -1}, // 좌
+        {-1, 0}, // 상
+    };
 
-void Top_to_Bottom(int col, int min, int max)
-{
-    for(int i=min+1;i<max;i++){
-        arr[i][col] = count;
-        count++;
+    int r, c, i;
+    for (r = 0; r < num; r++)
+    {
+        for (c = 0; c < num; c++)
+        {
+            arr[r][c] = 0;
+        }
     }
-}
 
-void Bottom_to_Top(int col,int max, int min)
-{
-    for(int i=max-2;i>=min+1;i--){
-        arr[i][col] = count;
-        count++;
+    for (i = 1; i <= num * num; i++)
+    {
+        arr[start_r][start_c] = i;
+        if (check(num, start_r, start_c, direction, move_arr, arr))
+        {
+            start_r += move_arr[direction][0];
+            start_c += move_arr[direction][1];
+        }
+        else
+        {
+            direction = (direction + 1) % 4;
+            start_r += move_arr[direction][0];
+            start_c += move_arr[direction][1];
+        }
+    }
+
+    for (r = 0; r < num; r++)
+    {
+        for (c = 0; c < num; c++)
+        {
+            printf("%d ", arr[r][c]);
+        }
+        printf("\n");
     }
 }
 
 int main(void)
 {
-    int n;
-    
-    printf("숫자를 입력하세요 : ");
-    scanf("%d",&n);
+    int num;
+    printf("숫자를 입력하시오 : ");
+    scanf("%d", &num);
 
-    Snail(n);
-
-    for(int i=0;i<n;i++){
-        for(int j=0;j<n;j++){
-            printf("%3d ",arr[i][j]);
-        }
-        printf("\n");
-    }
+    snail(num);
     return 0;
-}
-
-void Snail(int n)
-{
-    int min = 0;
-    int max = n;
-
-    for(int i = 0; i < n/2; i++){
-        Left_to_Right(i,min,max);
-        Top_to_Bottom(n-1-i,min,max);
-        Right_to_Left(n-1-i,max,min);
-        Bottom_to_Top(i,max,min);
-        min++;
-        max--;
-    }
-
-    if(n%2==1){
-        arr[n/2][n/2] = count;
-    }
 }
